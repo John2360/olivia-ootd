@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/olivia-ootd/static/css/main.d84e259f.css",
-    "main.js": "/olivia-ootd/static/js/main.4ce52900.js",
+    "main.js": "/olivia-ootd/static/js/main.129ce1fd.js",
     "static/media/bg-login.jpg": "/olivia-ootd/static/media/bg-login.78a6747e51cd3519dbe9.jpg",
     "static/media/test.jpg": "/olivia-ootd/static/media/test.a04f864f8c4d688e2411.jpg",
     "static/media/Montserrat-Medium.ttf": "/olivia-ootd/static/media/Montserrat-Medium.a281f04d4c8926e7dea1.ttf",
     "static/media/Montserrat-Bold.ttf": "/olivia-ootd/static/media/Montserrat-Bold.d0ca82d8ca07ba209aee.ttf",
     "index.html": "/olivia-ootd/index.html",
     "main.d84e259f.css.map": "/olivia-ootd/static/css/main.d84e259f.css.map",
-    "main.4ce52900.js.map": "/olivia-ootd/static/js/main.4ce52900.js.map"
+    "main.129ce1fd.js.map": "/olivia-ootd/static/js/main.129ce1fd.js.map"
   },
   "entrypoints": [
     "static/css/main.d84e259f.css",
-    "static/js/main.4ce52900.js"
+    "static/js/main.129ce1fd.js"
   ]
 }
